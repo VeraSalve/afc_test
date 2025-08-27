@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\afc\\afc_test\\AfcTestApp\\AfcTestApp.csproj": {}
+  },
+  "projects": {
+    "B:\\afc\\afc_test\\AfcTestApp\\AfcTestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\afc\\afc_test\\AfcTestApp\\AfcTestApp.csproj",
+        "projectName": "AfcTestApp",
+        "projectPath": "B:\\afc\\afc_test\\AfcTestApp\\AfcTestApp.csproj",
+        "packagesPath": "C:\\Users\\Vera\\.nuget\\packages\\",
+        "outputPath": "B:\\afc\\afc_test\\AfcTestApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://git.hub.zyfra.com/api/v4/groups/5/-/packages/nuget/index.json": {},
+          "https://nexus.dp.zyfra.com/repository/nuget-idp-hosted-new-proxy2/": {},
+          "https://nexus.hub.zyfra.com/repository/nuget-gitdp-digital-plant/index.json": {},
+          "https://nexus.hub.zyfra.com/repository/nuget-proxy-nexus-ziiot/": {},
+          "https://nexus.hub.zyfra.com/repository/nuget-proxy/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
